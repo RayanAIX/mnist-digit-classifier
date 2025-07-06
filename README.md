@@ -45,7 +45,10 @@ This project is beginner-friendly and built using **TensorFlow** and **Keras**, 
 
 ## 📸 Preview
 
-<img src="https://github.com/your-username/mnist-digit-classifier/assets/preview.png" alt="Prediction Example" width="400"/>
+## 📸 Preview
+
+<img src="assets/preview.png" alt="Prediction Example" width="400"/>
+
 
 ---
 
