@@ -45,9 +45,6 @@ This project is beginner-friendly and built using **TensorFlow** and **Keras**, 
 
 ## 📸 Preview
 
-## 📸 Preview
-
-## 🖼 Preview
 
 ![Preview](https://raw.githubusercontent.com/RayanAIX/mnist-digit-classifier/main/assets/preview.png)
 
