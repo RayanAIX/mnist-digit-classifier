@@ -47,7 +47,8 @@ This project is beginner-friendly and built using **TensorFlow** and **Keras**, 
 
 ## 📸 Preview
 
-<img src="assets/preview.png" alt="Prediction Example" width="400"/>
+![Preview](https://raw.githubusercontent.com/your-username/repo-name/main/assets/preview.png)
+
 
 
 ---
